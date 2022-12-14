@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: "Poppins", sans-serif;
-  background: url("/img/fon.jpg");
+  background: url("../img/fon.jpg");
 }
 
 @media (max-width: 767px) {
@@ -193,7 +193,7 @@ body {
     left: 0;
     top: 0;
     overflow: auto;
-    background: url("/img/fon.jpg");
+    background: url("../img/fon.jpg");
     padding: 150px 0 20px 0;
     transform: translate3d(0px, -100%, 0px);
     -webkit-transform: translate3d(0px, -100%, 0px);
